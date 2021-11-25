@@ -1,0 +1,12 @@
+C:\Users\Juan\Desktop\semestre\lab proyectos Software 2\appAlcancia\libAlcancia\bin\Debug\libAlcancia.dll
+C:\Users\Juan\Desktop\semestre\lab proyectos Software 2\appAlcancia\libAlcancia\bin\Debug\libAlcancia.pdb
+C:\Users\Juan\Desktop\semestre\lab proyectos Software 2\appAlcancia\libAlcancia\obj\Debug\libAlcancia.csprojAssemblyReference.cache
+C:\Users\Juan\Desktop\semestre\lab proyectos Software 2\appAlcancia\libAlcancia\obj\Debug\libAlcancia.csproj.CoreCompileInputs.cache
+C:\Users\Juan\Desktop\semestre\lab proyectos Software 2\appAlcancia\libAlcancia\obj\Debug\libAlcancia.dll
+C:\Users\Juan\Desktop\semestre\lab proyectos Software 2\appAlcancia\libAlcancia\obj\Debug\libAlcancia.pdb
+C:\Users\JUAN\Desktop\labsoftware2\appAlcancia\libAlcancia\obj\Debug\libAlcancia.csprojAssemblyReference.cache
+C:\Users\JUAN\Desktop\labsoftware2\appAlcancia\libAlcancia\obj\Debug\libAlcancia.csproj.CoreCompileInputs.cache
+C:\Users\JUAN\Desktop\labsoftware2\appAlcancia\libAlcancia\obj\Debug\libAlcancia.dll
+C:\Users\JUAN\Desktop\labsoftware2\appAlcancia\libAlcancia\obj\Debug\libAlcancia.pdb
+C:\Users\JUAN\Desktop\labsoftware2\appAlcancia\libAlcancia\bin\Debug\libAlcancia.dll
+C:\Users\JUAN\Desktop\labsoftware2\appAlcancia\libAlcancia\bin\Debug\libAlcancia.pdb
